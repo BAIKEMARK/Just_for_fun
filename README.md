@@ -43,16 +43,16 @@
 
 ## 使用效果
 
-![网页图](Just_for_fun/网页图.png)
+![image](https://github.com/BAIKEMARK/Just_for_fun/blob/main/网页图.png)
 
-![console_1](Just_for_fun/console_1.png)
+![image](https://github.com/BAIKEMARK/Just_for_fun/blob/main/console_1.png)
 
-![console_2](Just_for_fun/console_2.png)
+![image](https://github.com/BAIKEMARK/Just_for_fun/blob/main/console_2.png)
 
 
 ## 注意事项
 
-- 请确保在使用该脚本前已登录华南理工大学相关的在线评教平台。
+- 请确保在使用该脚本前已登录华南理工大学相关的在线作业平台。
 - 如果脚本没有自动运行，尝试刷新页面或检查浏览器的 Tampermonkey 插件是否已启用。
 
 ## 许可证
